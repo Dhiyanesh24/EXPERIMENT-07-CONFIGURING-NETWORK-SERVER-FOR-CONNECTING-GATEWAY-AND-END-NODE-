@@ -45,7 +45,10 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 
-
+```
+Name : Dhiyaneshwar P
+Reg.no : 212222110009
+```
 ## OUTPUT 
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
 ![Screenshot 2024-04-23 110944](https://github.com/Dhiyanesh24/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118362288/77e83967-0548-4165-899c-70b4fdbfe914)
